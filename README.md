@@ -1,2 +1,5 @@
-# DINO_PLC_V1
- This is DINO PLC V1 library for DINO PLC
+# DINO PLC V1.0.1
+- Change InitPLC to initPLC
+- Change clearM  to resetM
+# DINO PLC V1.0.0
+- First released
